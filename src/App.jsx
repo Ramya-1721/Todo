@@ -94,8 +94,8 @@ function App(){
       </Routes> */}
       {/* <PageApione/> */}
       {/* <PageApiTwo/> */}
-     {/* <FormReact/>
-     <ReactHookFrom/> */}
+     {/* <FormReact/> */}
+     <ReactHookFrom/>
      {/* <ErrorHandling/> */}
     {/* </BrowserRouter> */}
     </>
