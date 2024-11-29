@@ -1,22 +1,22 @@
 import React, { useState } from "react";
 import"./App.css";
-import CounterComp from "./component/CounterComp";
-import TaskComp from "./component/TaskComp";
-import ProductComp from "./component/ProductComp";
-import NameChangeComp from "./component/NameChangeComp";
-import PropsEg from "./component/PropsEg";
-import PropsProduct from "./component/PropsProductComp";
-import PropsProductComp from "./component/PropsProductComp";
-import ApiCallButton from "./component/ApicallButton";
-import LifeCycleComp from "./component/LifeCycleComp";
-import FormReact from "./component/FormReact";
-import ReactHookFrom from "./component/ReactHookForm";
-import TodoList from "./component/TodoList";
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { ErrorHandling } from "./component/ErrorHandling";
-import { BrowserRouter, Routes, Route,Link } from "react-router-dom";
-import PageApione from "./component/PageApione";
-import PageApiTwo from "./component/PageApiTwo";
+// import CounterComp from "./component/CounterComp";
+// import TaskComp from "./component/TaskComp";
+// import ProductComp from "./component/ProductComp";
+// import NameChangeComp from "./component/NameChangeComp";
+// import PropsEg from "./component/PropsEg";
+// import PropsProduct from "./component/PropsProductComp";
+// import PropsProductComp from "./component/PropsProductComp";
+// import ApiCallButton from "./component/ApicallButton";
+// import LifeCycleComp from "./component/LifeCycleComp";
+// import FormReact from "./component/FormReact";
+// import ReactHookFrom from "./component/ReactHookForm";
+// import TodoList from "./component/TodoList";
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import { ErrorHandling } from "./component/ErrorHandling";
+// import { BrowserRouter, Routes, Route,Link } from "react-router-dom";
+// import PageApione from "./component/PageApione";
+// import PageApiTwo from "./component/PageApiTwo";
 
 function App(){
   // const[name,setname]=useState("Ramya")
