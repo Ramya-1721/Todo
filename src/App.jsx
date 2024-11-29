@@ -96,7 +96,7 @@ function App(){
       {/* <PageApiTwo/> */}
      {/* <FormReact/>
      <ReactHookFrom/> */}
-     <ErrorHandling/>
+     {/* <ErrorHandling/> */}
     {/* </BrowserRouter> */}
     </>
   )
